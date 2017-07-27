@@ -1,4 +1,4 @@
-# bookshelf
+# App: bookshelf
 
 ## Synopsis
 
